@@ -2,3 +2,4 @@
 # my first .gitignore
 
 logs
+*.exe
