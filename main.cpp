@@ -1,3 +1,5 @@
 #include "Warrior.h"
 
-int MAINFUNC(){}
+int main(){
+	//Second changed in the main 
+}
