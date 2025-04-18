@@ -1,3 +1,7 @@
 #include "Warrior.h"
 
-int MAINFUNC(){}
+int main()
+{
+// updated the main functionn	
+	
+}
