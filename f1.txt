@@ -1,3 +1,4 @@
+//function
 
-int func();
+int func()
 
