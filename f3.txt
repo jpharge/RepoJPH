@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 cherry pick this. 
-=======
-Don't cherry this pick either!
->>>>>>> c81eae5 (CP 3)
+
